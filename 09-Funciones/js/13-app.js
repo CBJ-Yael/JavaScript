@@ -1,0 +1,1 @@
+// era tarea de arrow functions para el reproductor pero ya lo tenia hecho xD
